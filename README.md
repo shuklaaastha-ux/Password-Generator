@@ -1,2 +1,3 @@
-# Password-Generator
- A responsive Password Generator built using HTML, CSS, and JavaScript. It generates strong and secure passwords based on user-selected criteria, including length, uppercase and lowercase letters, numbers, and special characters. 
+Password Generator
+
+A fully responsive Password Generator developed using HTML, CSS, and JavaScript. This application helps users create strong, secure, and random passwords by allowing them to customize password length and select different character types, including uppercase letters, lowercase letters, numbers, and special characters. It features an intuitive user interface, real-time password generation, password strength enhancement, and one-click copy-to-clipboard functionality for easy use. The project demonstrates core JavaScript concepts such as DOM manipulation, event handling, conditional logic, random value generation, and user input validation while providing a practical solution for improving online security.
